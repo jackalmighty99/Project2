@@ -27,8 +27,9 @@
 
 .container3 {
     display: grid;
-    grid-template-columns: 200px 200px 200px 200px;
+    grid-template-columns: 300px 200px 300px 200px;
     grid-gap: 20px;
-    
-
+    grid-auto-flow:column 300px 200px 300px 200px;  
 }
+
+
