@@ -17,7 +17,7 @@
 .container2 {
     display: grid;
     grid-template-columns: 200px;
-    grid-gap: 10px;
+    grid-gap: 5px;
     grid-template-rows: 200px 200px 200px;
     grid-row: span 2;
 }
@@ -28,7 +28,9 @@
 .container3 {
     display: grid;
     grid-template-columns: 300px 300px 300px 300px;
-    grid-gap: 20px;
-    grid-auto-flow:column 300px 200px 300px 200px;  
-}
+    grid-gap: 0.5px;
+    grid-auto-flow: 300px 200px 300px 200px;  
+    margin: top 10px;
+    margin: bottom 10px;
 
+}
