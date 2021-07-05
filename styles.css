@@ -32,7 +32,50 @@
 
 }
 
+.img/reno-laithienne-QUgJhdY5Fyk-unsplash.jpg{
 
+grid-column-start: 1;
+grid-column-end: 3;
+grid-row-start: 1;
+grid-row-end: 7;
+}
 
-    
+.img/paul-hermann-QFTrLdQIRhI-unsplash.jp{
 
+grid-column-start: 3;
+grid-column-end: 5;
+grid-row-start: 1;
+grid-row-end: 3;
+}
+
+.img/kevin-hikari-rV_Qd1l-VXg-unsplash.jpg{
+
+grid-column-start: 3;
+grid-column-end: 5;
+grid-row-start: 5;
+grid-row-end: 7;
+}
+
+.img/kilyan-sockalingum-NR8-cBCN3aI-gunsplash.jpg{
+
+grid-column-start: 5;
+grid-column-end: 7;
+grid-row-start: 1;
+grid-row-end: 7;
+}
+
+.img/florian-wehde-xW9e8gdotxI-unsplash.jpg{
+
+grid-column-start: 5;
+grid-column-end: 7;
+grid-row-start: 1;
+grid-row-end: 3;
+}
+
+.img/lena-paulin-wH2-EJoDcV0-unsplash.jpg{
+
+grid-column-start: 5;
+grid-column-end: 7;
+grid-row-start: 5;
+grid-row-end: 7;
+}
